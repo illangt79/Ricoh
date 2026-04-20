@@ -1,8 +1,7 @@
-# Documentación Final del Reto – Ricoh
+# Documentación Final del Reto
 **Actividad:** El Arte de Desarrollar con IA  
 **Empresa:** Ricoh  
-**Ponente:** Rubén Ramos  
-**Equipo:** Hugo Campillo  
+**Equipo:** Hugo Campillo, Illán González, Nicolás Cuervo  
 **Fecha:** Abril 2026
 
 ---
@@ -37,7 +36,7 @@ La aplicación se organiza en tres áreas accesibles desde pestañas:
 | Java Swing | Librería para la interfaz gráfica (incluida en el JDK) |
 | Visual Studio Code | Entorno de desarrollo |
 | Extension Pack for Java | Extensión de VSCode para compilar y ejecutar Java |
-| Claude AI (IA) | Asistente de programación utilizado en el desarrollo |
+| Claude AI| Asistente de programación utilizado en el desarrollo |
 | GitHub | Control de versiones y repositorio del proyecto |
 
 No se utilizó base de datos: los datos se almacenan en memoria (listas `ArrayList`) durante la ejecución.
